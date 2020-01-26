@@ -1,0 +1,26 @@
+{
+  "name": "quiz_api",
+  "version": "1.0.0",
+  "description": "web_Services",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "log4js": "^6.1.0",
+    "mongoose": "^5.8.9",
+    "nodemon": "^2.0.2",
+    "routes": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "higenious"
+  },
+  "author": "Chetan_Tayade",
+  "license": "ISC"
+}
