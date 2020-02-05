@@ -1,5 +1,5 @@
 # Quiz Application 
-### Teacher can create quiz 
+
 
 
  ## Technology 
