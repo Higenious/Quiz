@@ -1,9 +1,10 @@
-# Quiz Application
+# Quiz Application 
+### Teacher can create quiz 
 
 
  ## Technology 
   - Node js 
-  - Mongo Db
+  - Mongo Db (No Sql Database)
   - Angular 8
 
 
